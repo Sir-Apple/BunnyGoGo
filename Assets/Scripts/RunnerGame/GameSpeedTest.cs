@@ -9,7 +9,6 @@ public class GameSpeedTest : MonoBehaviour
     //public GameObject countDown2;
     //public GameObject countDown1;
     //public GameObject countDownGo;
-    //public GameObject fadeIn;
 
     [Header("Speed elements")]
     public float initialSpeed = 1.0f; 
