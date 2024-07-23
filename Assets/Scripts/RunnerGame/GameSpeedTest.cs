@@ -4,11 +4,6 @@ using UnityEngine;
 
 public class GameSpeedTest : MonoBehaviour
 {
-    //[Header("Count down elements")]
-    //public GameObject countDown3;
-    //public GameObject countDown2;
-    //public GameObject countDown1;
-    //public GameObject countDownGo;
 
     [Header("Speed elements")]
     public float initialSpeed = 1.0f; 
