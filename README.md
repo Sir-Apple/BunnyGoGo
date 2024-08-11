@@ -1,5 +1,9 @@
 # BunnyGoGo
-A game about a pink bunny runs and collects foods
+A game about a pink bunny runs and collects foods.
+
+Technology used:
+- Unity
+- C#
 
 ## Description: Bubbletea Collector
 
